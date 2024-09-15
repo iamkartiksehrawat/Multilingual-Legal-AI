@@ -9,7 +9,8 @@ This project is a sophisticated Legal Assistant designed to provide accurate, up
 
 https://github.com/user-attachments/assets/70430dd8-f9a4-49fa-8d1b-37533e9e06a4
 
-
+## Flow Chart
+![Legalai-flowchart](https://github.com/user-attachments/assets/42a2032f-3bf5-432a-b457-7f98082d942b)
 
 ## Features
 
@@ -52,6 +53,9 @@ https://github.com/user-attachments/assets/70430dd8-f9a4-49fa-8d1b-37533e9e06a4
 This repo was created during Supreme Court Hackathon 2024 – Innovate India
 
 Team Members: Aryan Garg, [Kartik Sehrawat](https://github.com/iamkartiksehrawat), [Shivank Tomar](https://github.com/tomarshivank) 
+
+Presentation: [LegalAI-presentation.pdf](https://github.com/user-attachments/files/17005414/LegalAI-presentation.pdf)
+
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any changes or improvements.
 
